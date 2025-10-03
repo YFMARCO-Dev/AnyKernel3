@@ -1,26 +1,26 @@
 ========================================================
-||                ..              ..                  ||
-||            .  .7                !:  .              ||
-||           :^  P.                 G  .^             ||
-||           5. ~B  .~?^ (  ) :?!:  PY  P             ||
-||          .B  BG~7???5B@&&@#5J?J?!P&  G^            ||
-||          !#  77???J75&@@@@&57J???7?  GJ            ||
-||          5&.7J7?5Y^Y~^@@@@!:5^JP?7J?:#G            ||
-||          P&J!?GP:.G~ &@@@@@:.B^.5BJ~?&B            ||
-||          .^Y#G: !&^  &@@@@@. .&J .P&5~.            ||
-||          P&G:  5&:   Y@@@@F   .&B  .G@B.           ||
-||         .&#  .#&.    .&@@@^    .#&^  B@:           ||
-||          P#  ^@5      ?@@5      7@7  B&            ||
-||          :&.  #G       ..       Y@.  &7            ||
-||           P7  J#                BB  ^#             ||
-||           .G  .&^              .&^  P^             ||
-||            ^7  ?P              YP  ~!              ||
-||             ::  P:            .B  .^               ||
-||                 .5            Y:                   ||
-||                  .~          ^^                    ||
-||                   .          .                     ||
+||               .:^:.            .:^:.               ||
+||           .!5B5~.                .~YBP7:           ||
+||        .?BBY#&.                     &&5B#Y:        ||
+||      !G#Y:  .#B                    5@^  .J#B?      ||
+||    !BG~  .5^ .#G..^~!: ^  ^ .!!^:.5&: .P^  ^G#?    ||
+||  :PY:   J#5GY. ?7!77?YG&##&B5??7!7J. JB5&P.  .YG^  ||
+|| ~Y:   .GP.  !GY!???JY5&&&&&&PYJ???!JB?  .5#^   .J7 ||
+||^:    :B7      ^^:!J7?YJ&&&&YJJ7J7^^~      ~#~    :~||
+||     .G^   JBY~^Y5!:J?.B&&&&#^!Y^~55~~JBP   :B:     ||
+||     J~    GP:!?: !G^  #&&&&&. :P? .?7:Y#.   :P     ||
+||    .!     GP  :^GY    ?&##&5    ?G~:  Y#.    ~^    ||
+||    :      JB. ?#G      B###.     5&5  GP      ~    ||
+||           .B7  GB:     ^YF7     .BB. ^#^           ||
+||            !G. ^#J      ..      !#7  P?            ||
+||             7J  JG.             PP  7Y             ||
+||              !~  P7            ^B. :?              ||
+||               ^. :P.           5~ .~               ||
+||                .  ~7          ~7  .                ||
+||                    ~.        .!                    ||
+||                     :        :                     ||
 ========================================================
-||              Spider-Kernel Installer               ||
+||               Venom-Kernel Installer               ||
 ========================================================
 ||                                                    ||
 ||  Target Device  : Samsung Tab A7 (gta4l)           ||
@@ -28,15 +28,15 @@
 ||   Maintainer    : YFMARCO-Dev (Telegram: @YFMARCO) ||
 ||                                                    ||
 ========================================================
-||              Spider-Kernel Feature Set             ||
+||              Venom-Kernel Feature Set              ||
 ========================================================
 ||                                                    ||
 ||  Support Models : T505N/T505/T505C/T507/T500       ||
 ||   ROMS Support  : AOSP & ONEUI & LOS               ||
-|| Android version : Support Android 10 to Android 16 ||
-||    upstream     : v4.19.325 (SpiderKernel)         ||
-||  KernelSU-Next  : Not Support                      ||
-||      SuSFS      : Not support                      ||
+|| Android version : Support Android 12 to Android 16 ||
+||    upstream     : v4.19.325 (VenomKernel)          ||
+||  KernelSU-Next  : Supported ---> v1.1.1            ||
+||      SuSFS      : supported ---> v1.5.10           ||
 ||                                                    ||
 ||-------------Thanks for all gta4l Users-------------||
 ========================================================

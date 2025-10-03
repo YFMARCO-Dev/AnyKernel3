@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Spider-Kernel by YFMARCO
+kernel.string=Venom-Kernel by YFMARCO
 do.devicecheck=1
 do.modules=0
 do.systemless=1
