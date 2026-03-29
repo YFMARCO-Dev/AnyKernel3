@@ -34,7 +34,7 @@
 ||  Support Models : T505N/T505/T505C/T507/T500       ||
 ||   ROMS Support  : AOSP & ONEUI & LOS               ||
 || Android version : Support Android 12 to Android 16 ||
-||    upstream     : v4.19.325-cip123 (VenomKernel)   ||
+||    upstream     : v4.19.325-cip130 (VenomKernel)   ||
 ||  KernelSU-Next  : Supported ---> v1.1.1            ||
 ||      SuSFS      : supported ---> v1.5.11           ||
 ||                                                    ||
