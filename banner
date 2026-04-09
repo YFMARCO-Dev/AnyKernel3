@@ -23,20 +23,20 @@
 ||              Spider-Kernel Installer               ||
 ========================================================
 ||                                                    ||
-||  Target Device  : Samsung Tab A7 (gta4l)           ||
-||    Chipset      : Snapdragon 662 (bengal)          ||
+||  Target Device  : Samsung A36 5G (a36xq)           ||
+||    Chipset      : Snapdragon 6 Gen 3 (parrot)      ||
 ||   Maintainer    : YFMARCO-Dev (Telegram: @YFMARCO) ||
 ||                                                    ||
 ========================================================
 ||              Spider-Kernel Feature Set             ||
 ========================================================
 ||                                                    ||
-||  Support Models : T505N/T505/T505C/T507/T500       ||
+||  Support Models : A366B/A366E/A366U/A366N/A366N.   ||
 ||   ROMS Support  : AOSP & ONEUI & LOS               ||
-|| Android version : Support Android 12 to Android 16 ||
-||    upstream     : v4.19.325-cip130 (SpiderKernel)  ||
+|| Android version : Support Android 15 to Android 16 ||
+||    upstream     : v6.6.77          (SpiderKernel)  ||
 ||  KernelSU-Next  : Not Support                      ||
 ||      SuSFS      : Not support                      ||
 ||                                                    ||
-||-------------Thanks for all gta4l Users-------------||
+||-------------Thanks for all a36xq Users-------------||
 ========================================================
