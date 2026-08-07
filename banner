@@ -34,7 +34,7 @@
 ||  Support Models : A366B/A366E/A366U/A366N/A366N.   ||
 ||   ROMS Support  : AOSP & ONEUI & LOS               ||
 || Android version : Support Android 15 to Android 16 ||
-||    upstream     : v6.6.77          (SpiderKernel)  ||
+||    upstream     : v6.6       (SpiderKernel)        ||
 ||  KernelSU-Next  : Not Support                      ||
 ||      SuSFS      : Not support                      ||
 ||                                                    ||
